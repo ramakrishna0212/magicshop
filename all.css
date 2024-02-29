@@ -1,0 +1,73 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: white;
+}
+.logo{
+    margin-top: -4%;
+    margin-left: 3%;
+}
+.barslide{
+    margin: 7.5%;
+    padding-left: 0%;
+    font-size: x-large;
+}
+.baroption {
+    font-size: 20px;
+    margin-top: -5%;
+    padding-left: 39%;
+    font-weight: 700;
+}
+.baroption a{
+    padding: 1px 16px;
+}
+.bs {
+    font-size: 18px;
+    margin-top: -22px;
+    padding-left: 89%;
+    font-weight: 213%;
+}
+.by{
+    padding-left: 40%;
+    margin-top: 9%;
+    font-size: 15px;
+    line-height: 35px;
+}
+.lights{
+    width: 97%;
+    padding-left: 3%;
+    margin-top: -25%;
+}
+.lights img{
+    border: solid 1px black;
+}
+button{
+    color: white;
+    width: 15%;
+    padding: 15px;
+    cursor: pointer;
+    font-size: 95%;
+    background-color: black;
+    border: solid 1px black;
+    margin-left: 40%;
+    margin-top: 9%;
+}
+.by2{
+    padding-left: 3%;
+    margin-top: 9%;
+    font-size: 28px;
+    line-height: 35px;
+}
+.more{
+    padding-left: 8%;
+    padding-top: 6%;
+    width: 92%;
+}
+.more img{
+    border: solid 1px black;
+}

@@ -1,0 +1,46 @@
+body{
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.bg{
+    font-size: medium;
+    font-family: sans-serif;
+    margin: 10px 62px -42px;
+    position: fixed;
+}
+.BUSINESS{
+    padding-left: 37%;
+}
+
+.music{
+    font-family: auto;
+    padding-top: 5%;
+    padding-left: 53%;
+    font-size: 950%;
+    font-weight: 600;
+}
+.music a:hover{
+    color: rgb(255, 98, 0);
+}
+.title{
+    margin-left: -11%;
+    font-family: inherit;
+    font-size: x-large;
+    font-weight: 600;
+}
+.group1{
+    float: right;
+    width: 32.33%;
+    padding: 5px;
+}
+.container::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.ynwa{
+    font-size: xx-large;
+    padding-left: 39%;
+    margin-top: -11%;
+}
